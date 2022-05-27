@@ -4,7 +4,7 @@ This is a project only provid APIs to customers.
 1. signup:  POST http://localhost:8080/api/signup , no need to use any authentication, anonymous users can use this.
             body :
             {
-              "email": "newLina11@gmail.com",
+              "email": "newLina12@gmail.com",
               "firstName": "tester1",
               "lastName": "Last" ,
               "password": "root",
